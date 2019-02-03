@@ -8,18 +8,18 @@
       "isSold": true
     },
     {
-      "name": "aa",
-      "date": "23.12.18",
-      "model": "qqqq",
-      "isSold": false,
-      "id": 3
-    },
-    {
       "name": "gggggg444",
       "date": "14.01.19",
       "model": "eeeee",
-      "isSold": false,
+      "isSold": true,
       "id": 4
+    },
+    {
+      "name": "sss",
+      "date": "03.02.19",
+      "model": "ssss",
+      "isSold": true,
+      "id": 5
     }
   ]
 }
