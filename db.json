@@ -1,13 +1,6 @@
 {
   "cars": [
     {
-      "id": 2,
-      "name": "Audi",
-      "date": "04.05.12",
-      "model": "RX6",
-      "isSold": true
-    },
-    {
       "name": "gggggg444",
       "date": "14.01.19",
       "model": "eeeee",
